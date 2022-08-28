@@ -1,0 +1,1 @@
+cmd_/home/t108590002/project/2.2/teamProject_2_2.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/t108590002/project/2.2/teamProject_2_2.ko /home/t108590002/project/2.2/teamProject_2_2.o /home/t108590002/project/2.2/teamProject_2_2.mod.o;  true
